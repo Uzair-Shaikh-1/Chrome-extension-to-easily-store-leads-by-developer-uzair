@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 10px;
+    min-width: 400px;
+
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-bottom: 5px;
+}
+
+button {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#delete-btn {
+    border: 1px solid green;
+    background-color: white;
+    color: green;
+}
+
+ul {
+    color: green;
+    margin-top: 20px;
+    padding-left: 0;
+}
+
+li {
+    list-style: none;
+    margin-top: 5px;
+}
+
+li a {
+    color: green;
+    line-height: 5px;
+}
